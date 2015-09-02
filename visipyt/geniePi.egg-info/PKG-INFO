@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: geniePi
+Version: 1.0
+Summary: Python bindings for the ViSi-Genie-RaspPi-Library, a C library for interfacing 4D Systems displays with a Raspberry Pi
+Home-page: https://github.com/dmichel76/ViSi-Genie-RaspPi-Library
+Author: David Michel
+Author-email: dmichel76@googlemail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN

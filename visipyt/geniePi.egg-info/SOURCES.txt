@@ -1,0 +1,6 @@
+geniePi.py
+setup.py
+geniePi.egg-info/PKG-INFO
+geniePi.egg-info/SOURCES.txt
+geniePi.egg-info/dependency_links.txt
+geniePi.egg-info/top_level.txt
