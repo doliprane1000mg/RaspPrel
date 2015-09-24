@@ -476,7 +476,10 @@ def at_readSms(n):
 	return buffer
 
 def at_readAllSms():
+	at_cmgf()
 	ret=at_cmgl()
 	debug_print("---> BUFFER --->"+buffer, debug["DEBUG"])
 	return buffer
 
+def closeSerial():
+	ser.close()
